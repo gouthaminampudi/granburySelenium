@@ -16,8 +16,6 @@ public class MainTest extends SeleniumBase{
 	
 	private void goToDemoPage(){
 		this.demoRequestFormObject = hPage.clickDemoButton();
-		System.out.println("Test");
-		System.out.println("Test");
 
 		
 	} 
