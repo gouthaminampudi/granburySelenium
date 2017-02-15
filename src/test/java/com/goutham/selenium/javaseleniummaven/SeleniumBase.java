@@ -17,7 +17,6 @@ import com.goutham.selenium.pageobjects.HomePage;
 /**
  * This is the base class for all Selenium implementations.
  * 
- * @author n0235650
  *
  */
 public class SeleniumBase {
